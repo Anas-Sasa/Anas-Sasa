@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm Anas Sasa
 
-<!--
-**Anas-Sasa/Anas-Sasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring developer currently learning the fundamentals of software development. 
+I'm passionate about building clean, automation my tasks and code some projects to strengthen my skills.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Improving my problem-solving with Python.
+- 🌱 I’m currently learning: Python, Git, Dutch and English
+- 👯 I’m looking to collaborate on: Beginner-friendly open source projects.
+- 💬 Ask me about: My journey into tech, languages learning and hobbys
+- 📫 How to reach me on, MyLinked in: in/anas-sasa-794881336
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### My Projects
+
+Here are a few projects I've built:
