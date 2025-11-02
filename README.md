@@ -1,55 +1,94 @@
 ### Hi there 👋 I'm Anas Sasa
 
-I'm an aspiring developer currently learning the fundamentals of software development. 
-I'm currently on a journey to dive deeper into the Python ecosystem.
-I'm passionate about building clean, automation my tasks and code some projects to strengthen my skills.
+> - I'm an aspiring developer currently learning the fundamentals of software development. 
+> - I'm currently on a journey to dive deeper into the Python ecosystem.
+> - I'm passionate about building clean, automation my tasks and code some projects to strengthen my skills.
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on:
-                		      Improving my problem-solving with Python, working,
-                					At this moment, I create a structural plan for a program that stores daily task data
-                					to generate a monthly report on these tasks or anything that is dealt with during the day, using the Python language.
+### 🔭 I’m currently working on:
 
-- 🌱 I’m currently learning: 
-			                    Python, Git and Github
+> - Improving my problem-solving with Python by working at this moment, on a structural plan<br>for a program that stores daily task data and generates a monthly report about its activities,<br>using the Python language.
 
-- 👯 I’m looking to collaborate on: 
-                    			Open-source projects that simulate real-world labor market scenarios;
-                    			and collaborative projects to develop communication skills.
 
-- 🗣Languages:
-			    I speak Arabic, Dutch and English! ( Ik spreek Nederlands op niveau 2 ! ).
+### 🌱 I’m currently learning: 
 
-- 🎯 My Goal:
-    			Professionalism in building and developing  webs and web applications.
-    			To start a tech channel on "YouTube" and "TikTok" to document my coding journey and help other beginners.
-    			
+> - Python, Git and Github
 
-- 📫 How to reach me?
-					 Linked in: in/anas-sasa-794881336
-- __________________________________________
+### 👯 I’m looking to collaborate on: 
+
+> - Open-source projects that simulate real-world labor market scenarios.
+> - Collaborative projects to develop communication skills.
+
+### 🗣 Languages:
+
+> - I speak Arabic, Dutch and English! ( Ik spreek Nederlands op niveau 2 ! ).
+
+### 🎯 My Goal:
+
+> - Professionalism in building and developing  webs and web applications.
+> - To start a tech channel on "YouTube" and "TikTok" to document<br>my coding journey and help other beginners.
+
+
+### 📫 How to reach me?
+ > - **LinkedIn:** [in/anas-sasa-794881336](https://www.linkedin.com/in/anas-sasa-794881336)
+
+
+***
   
 - ### My Projects
 
-Here are a few projects I've built:
+**Here are a few projects I've built**:
+
+### 1- Password Generato:
+
+> - A software to generate storng passwords
+
+> - Tech: Using Python
+
+> - 📂 Repository: https://github.com/Anas-Sasa/Password-Generator.git
 
 
-### Password Generato:
+### 2- Contact Management:
 
-- A software to generate storng passwords
+> - A procedural programming exercise built to practice core Python skills.
 
-- Tech: Using Python
+> - Focus on:  Practicing functions, loops, conditionals, dictioneries and data structures
 
-- 📂 Repository: https://github.com/Anas-Sasa/Password-Generator.git
+> - Tech: Using Python
+
+> - 📂 Repository: https://github.com/Anas-Sasa/Contact-Management.git
 
 
-### Contact Management:
+### 3- Hang-Man-Game:
 
-A procedural programming exercise built to practice core Python skills.
+> - A procedural programming exercise built to practice core Python skills.
 
-- Focus on:  Practicing functions, loops, conditionals, dictioneries and data structures
+> - Focus on:  List operations, "If statement" & Join and slicing methods
 
-- Tech: Using Python
+> - Tech: Using Python
 
-- 📂 Repository: https://github.com/Anas-Sasa/Contact-Management.git
+> - 📂 Repository: https://github.com/Anas-Sasa/Hang-Man-game.git
+
+
+### 4- Blackjack-Game:
+
+> - A procedural programming exercise built to practice programming logic and doing code exercises.
+
+> - **Focus on:** Programming logic and code exercises
+
+> - **Tech:** Using Python
+
+> - 📂 Repository: https://github.com/Anas-Sasa/BlackJack-Game.git
+
+
+### 5- Turtles-Racing-Game:
+
+> - This an OOP exercise project to creating a graphical turtle racing game.
+
+> - **Focus on:** It demonstrates core programming concepts like loops, functions, lists, user input, conditional logic,<br>and random number generation in a visual and interactive way.
+
+> - **Tech:** Using Python Turtle module
+
+> - 📂 Repository: https://github.com/Anas-Sasa/Turtle-Race-Game.git
+
