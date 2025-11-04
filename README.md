@@ -8,7 +8,8 @@
 
 ### 🔭 I’m currently working on:
 
-> - Improving my problem-solving with Python by working at this moment, on a structural plan<br>for a program that stores daily task data and generates a monthly report about its activities,<br>using the Python language.
+> - Improving my problem-solving with Python by working at this moment, on a structural plan<br>
+for a program that stores daily task data and generates a monthly report about its activities,<br>using the Python language.
 
 
 ### 🌱 I’m currently learning: 
@@ -44,14 +45,14 @@
 
 > - A software to generate storng passwords
 
-> - Tech: Using Python
+> - Tech: Using Python random, string, os, time modules
 
 > - 📂 Repository: https://github.com/Anas-Sasa/Password-Generator.git
 
 
 ### 2- Contact Management:
 
-> - A procedural programming exercise built to practice core Python skills.
+> - A procedural programming exercise built to practice core Python and strengthen skills.
 
 > - Focus on:  Practicing functions, loops, conditionals, dictioneries and data structures
 
@@ -66,7 +67,7 @@
 
 > - Focus on:  List operations, "If statement" & Join and slicing methods
 
-> - Tech: Using Python
+> - Tech: Using Python os, random, time modules
 
 > - 📂 Repository: https://github.com/Anas-Sasa/Hang-Man-game.git
 
@@ -75,9 +76,9 @@
 
 > - A procedural programming exercise built to practice programming logic and doing code exercises.
 
-> - **Focus on:** Programming logic and code exercises
+> - **Focus on:** Programming logic, handling with functions, Return function values and code exercises
 
-> - **Tech:** Using Python
+> - **Tech:** Using Python random, os, string, time modules
 
 > - 📂 Repository: https://github.com/Anas-Sasa/BlackJack-Game.git
 
@@ -86,9 +87,44 @@
 
 > - This an OOP exercise project to creating a graphical turtle racing game.
 
-> - **Focus on:** It demonstrates core programming concepts like loops, functions, lists, user input, conditional logic,<br>and random number generation in a visual and interactive way.
+> - **Focus on:** It demonstrates core ( OOP ) concepts moving objects, lists, input window,<br>
+conditional logic and Interacting with the objects of turtle module
 
-> - **Tech:** Using Python Turtle module
+> - **Tech:** Using Python Turtle, Screen, ramdom, times, os modules
 
 > - 📂 Repository: https://github.com/Anas-Sasa/Turtle-Race-Game.git
+
+
+### 6- Ping-Pong-Game:
+
+> - This an OOP exercise divide project to files, inheritance, movement<br>
+and creating a graphical interface using turtle module
+
+> - **Focus on:** It demonstrates core OOP concepts like loops, calsses, functions, input window, movement logic,<br>
+and inheritance of turtle module
+
+> - **Tech:** Using Python Turtle, Screen, random, time and os modules
+
+> - 📂 Repository: https://github.com/Anas-Sasa/Ping-Pong-Game.git
+
+
+### 7- Snake-Game:
+
+> - The game is generated using ( OOP ) to practice splitting project to files, movement logic<br>
+and creating a graphical interface and creating snake using turtle module
+
+> - **Focus on:** Handling with core OOP concepts like calsses, files handling, game importing,<br>
+methods of turtle and merge the project into a single file.
+
+> - **Tech:** Using Python Turtle, Screen, random, time and os modules
+
+> - 📂 Repository: https://github.com/Anas-Sasa/Snake-Game.git
+
+
+
+
+
+
+
+
 
