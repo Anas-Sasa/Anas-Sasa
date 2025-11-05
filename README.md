@@ -45,14 +45,14 @@ for a program that stores daily task data and generates a monthly report about i
 
 > - A software to generate storng passwords
 
-> - Tech: Using Python random, string, os, time modules
+> - Tech: Using Python's random, string, os, and time modules
 
 > - 📂 Repository: https://github.com/Anas-Sasa/Password-Generator.git
 
 
 ### 2- Contact Management:
 
-> - A procedural programming exercise built to practice core Python and strengthen skills.
+> - A procedural programming exercise designed to practice core Python and strengthen skills
 
 > - Focus on:  Practicing functions, loops, conditionals, dictioneries and data structures
 
@@ -65,58 +65,58 @@ for a program that stores daily task data and generates a monthly report about i
 
 > - A procedural programming exercise built to practice core Python skills.
 
-> - Focus on:  List operations, "If statement" & Join and slicing methods
+> - Focus on: ist operations, if statements, and join and slicing methods
 
-> - Tech: Using Python os, random, time modules
+> - Tech: Using Python's os, random, time modules
 
 > - 📂 Repository: https://github.com/Anas-Sasa/Hang-Man-game.git
 
 
 ### 4- Blackjack-Game:
 
-> - A procedural programming exercise built to practice programming logic and doing code exercises.
+> - A procedural programming exercise designed to practice programming logic and complete coding exercises
 
-> - **Focus on:** Programming logic, handling with functions, Return function values and code exercises
+> - **Focus on:** Programming logic, working with functions, returning function values, and coding exercises
 
-> - **Tech:** Using Python random, os, string, time modules
+> - **Tech:** Using Python's random, os, string, time modules
 
 > - 📂 Repository: https://github.com/Anas-Sasa/BlackJack-Game.git
 
 
 ### 5- Turtles-Racing-Game:
 
-> - This an OOP exercise project to creating a graphical turtle racing game.
+> - This is an OOP exercise project for creating a graphical turtle racing game
 
-> - **Focus on:** It demonstrates core ( OOP ) concepts moving objects, lists, input window,<br>
-conditional logic and Interacting with the objects of turtle module
+> - **Focus on:** It demonstrates core OOP concepts such as moving objects, using lists,<br>
+input windows, conditional logic, and interacting with turtle module objects
 
-> - **Tech:** Using Python Turtle, Screen, ramdom, times, os modules
+> - **Tech:** Using Python's Turtle, Screen, ramdom, times, os modules
 
 > - 📂 Repository: https://github.com/Anas-Sasa/Turtle-Race-Game.git
 
 
 ### 6- Ping-Pong-Game:
 
-> - This an OOP exercise divide project to files, inheritance, movement<br>
-and creating a graphical interface using turtle module
+> - This is an OOP exercise involving dividing the project into files, using inheritance,<br>
+implementing movement, and creating a graphical interface with the turtle module
 
-> - **Focus on:** It demonstrates core OOP concepts like loops, calsses, functions, input window, movement logic,<br>
-and inheritance of turtle module
+> - **Focus on:** It demonstrates core OOP concepts such as loops, classes, functions, input windows,<br>
+movement logic, and inheritance using the turtle module
 
-> - **Tech:** Using Python Turtle, Screen, random, time and os modules
+> - **Tech:** Using Python's turtle, screen, random, time, and os modules
 
 > - 📂 Repository: https://github.com/Anas-Sasa/Ping-Pong-Game.git
 
 
 ### 7- Snake-Game:
 
-> - The game is generated using ( OOP ) to practice splitting project to files, movement logic<br>
-and creating a graphical interface and creating snake using turtle module
+> - The game is developed using OOP to practice splitting the project into files,<br>
+implementing movement logic, and creating a graphical interface with a snake using the turtle module
 
-> - **Focus on:** Handling with core OOP concepts like calsses, files handling, game importing,<br>
-methods of turtle and merge the project into a single file.
+> - **Focus on:** Handling core OOP concepts such as classes, file handling, game importing,<br>
+turtle methods, and merging the project into a single file
 
-> - **Tech:** Using Python Turtle, Screen, random, time and os modules
+> - **Tech:** Using Python's Turtle, Screen, random, time and os modules
 
 > - 📂 Repository: https://github.com/Anas-Sasa/Snake-Game.git
 
